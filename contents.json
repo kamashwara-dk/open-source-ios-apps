@@ -6,10 +6,10 @@
   "footer": "## Thanks\n\nThis list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) and [awesome-swift](https://github.com/matteocrippa/awesome-swift). Thanks to all the [contributors](https://github.com/dkhamsing/open-source-ios-apps/graphs/contributors) 🎉 \n\n## Contact\n\n- [github.com/dkhamsing](https://github.com/dkhamsing)\n- [twitter.com/dkhamsing](https://twitter.com/dkhamsing)\n",
   "sponsor": "",
   "categories": [
-{
-  "title": "Apple phone" ,
-  "id": "apple-phone"
-},
+   {
+      "title": "Apple phone",
+      "id": "apple-phone"
+    },
     {
       "title": "Apple TV",
       "id": "apple-tv"
@@ -400,17 +400,9 @@
       "license": "gpl-3.0",
       "suggested_by": "@kamashwara-dk",
       "stars": 50,
-      "updated": "2024-11-20 23:43:48 UTC"
+      "updated": "2024-12-20 11:43:48 UTC"
     },
-    {
-      "title": "Apple phone",
-      "category-ids": [
-        "apple-phone",
-        "emulator"
-      ],
-      "tags": [
-        "c",
-        "obj-c"
+    
       ],
       "description": "Linux shell",
       "source": "https://github.com/ish-app/ish",
