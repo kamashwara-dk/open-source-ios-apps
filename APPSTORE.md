@@ -9,6 +9,7 @@ List of **335** open-source apps published on the App Store (complete list [here
 
 
 Jump to
+
 - [Iphone](#apple-phone)
 - [Apple TV](#apple-tv) 
 - [Apple Vision](#apple-vision) 
@@ -90,7 +91,9 @@ Jump to
 
 
 ## Apple phone 
-{
+
+[back to top](#readme) 
+
      "title": "Canva",
             "category-ids": ["designing"],
             "description": "able to visualise and design charts and posters acquired by the user",
@@ -100,8 +103,8 @@ Jump to
             "date_added": "Dec 20 2024",
             "suggested_by": "@github_kamashwara-dk"
 
-            }
             
+
 ## Apple TV 
  
 [back to top](#readme) 

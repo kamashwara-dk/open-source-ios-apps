@@ -6,6 +6,10 @@
   "footer": "## Thanks\n\nThis list was inspired by [awesome-ios](https://github.com/vsouza/awesome-ios) and [awesome-swift](https://github.com/matteocrippa/awesome-swift). Thanks to all the [contributors](https://github.com/dkhamsing/open-source-ios-apps/graphs/contributors) 🎉 \n\n## Contact\n\n- [github.com/dkhamsing](https://github.com/dkhamsing)\n- [twitter.com/dkhamsing](https://twitter.com/dkhamsing)\n",
   "sponsor": "",
   "categories": [
+{
+  "title": "Apple phone" ,
+  "id": "apple-phone"
+},
     {
       "title": "Apple TV",
       "id": "apple-tv"
@@ -385,26 +389,23 @@
         "multilingual",
         "wiki"
       ],
-      "description": "Official app for discovering and tracking anime, manga, game, music",
-      "source": "https://github.com/kurozora/kurozora-app",
-      "itunes": "https://apps.apple.com/app/kurozora/id1476153872",
+      "description": "Official app for designing posters for official and unoffical events",
+      "source": "https://github.com/Canva",
+      "itunes": "https://apps.apple.com/in/app/canva-design-photo-video/id897446215",
       "screenshots": [
-        "https://github.com/Kurozora/kurozora-app/raw/master/.github/Assets/Screenshots/1.jpg",
-        "https://github.com/Kurozora/kurozora-app/raw/master/.github/Assets/Screenshots/2.jpg",
-        "https://github.com/Kurozora/kurozora-app/raw/master/.github/Assets/Screenshots/4.jpg",
-        "https://github.com/Kurozora/kurozora-app/raw/master/.github/Assets/Screenshots/5.jpg",
-        "https://github.com/Kurozora/kurozora-app/raw/master/.github/Assets/Screenshots/6.jpg"
+        "https://is1-ssl.mzstatic.com/image/thumb/PurpleSource116/v4/ad/a0/1e/ada01ebf-f42c-56e4-9165-578e0fa25ce2/eef8a03b-1160-460a-8395-d49f608f6fa5_desktop-1.png/434x0w.webp",
+  
       ],
-      "date_added": "June 11, 2023",
+      "date_added": "Dec 20, 2024",
       "license": "gpl-3.0",
-      "suggested_by": "@kiritokatklian",
+      "suggested_by": "@kamashwara-dk",
       "stars": 50,
       "updated": "2024-11-20 23:43:48 UTC"
     },
     {
-      "title": "iSH",
+      "title": "Apple phone",
       "category-ids": [
-        "developer",
+        "apple-phone",
         "emulator"
       ],
       "tags": [
